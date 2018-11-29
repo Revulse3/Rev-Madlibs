@@ -1,3 +1,3 @@
 Mad libs generator :
 
-Easily build have a mad lib generated for you.
+Easily build and have a mad lib generated for you.
